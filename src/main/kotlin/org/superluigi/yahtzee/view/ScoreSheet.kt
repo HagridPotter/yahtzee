@@ -56,5 +56,6 @@ object ScoreSheet {
         grid.add(scoreSheetGrid, 0, 2)
 
     }
+
 }
 
